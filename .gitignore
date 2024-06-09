@@ -2,3 +2,6 @@
 dataset/
 .venv/
 kaggle.json
+backups copy/
+backups copy 2/
+backups copy 3/
