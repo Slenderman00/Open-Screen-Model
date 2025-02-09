@@ -11,7 +11,7 @@ models = [
         'learning_rate': 0.000125,
         'debug': False,
         'debug_print_model': True,
-        'epochs': 100
+        'epochs': 25
     },
     {
         'name': 'openscreen-512-4-6-128-0.000125',
@@ -22,7 +22,7 @@ models = [
         'learning_rate': 0.000125,
         'debug': False,
         'debug_print_model': True,
-        'epochs': 100
+        'epochs': 25
     },
     {
         'name': 'openscreen-512-2-8-128-0.000125',
@@ -33,7 +33,7 @@ models = [
         'learning_rate': 0.000125,
         'debug': False,
         'debug_print_model': True,
-        'epochs': 100
+        'epochs': 25
     },
     {
         'name': 'openscreen-512-2-6-256-0.000125',
@@ -44,7 +44,7 @@ models = [
         'learning_rate': 0.000125,
         'debug': False,
         'debug_print_model': True,
-        'epochs': 100
+        'epochs': 25
     },
 
     # 256x256
@@ -57,7 +57,7 @@ models = [
         'learning_rate': 0.000125,
         'debug': False,
         'debug_print_model': True,
-        'epochs': 100
+        'epochs': 25
     },
     {
         'name': 'openscreen-256-4-6-128-0.000125',
@@ -68,7 +68,7 @@ models = [
         'learning_rate': 0.000125,
         'debug': False,
         'debug_print_model': True,
-        'epochs': 100
+        'epochs': 25
     },
     {
         'name': 'openscreen-256-2-8-128-0.000125',
@@ -79,7 +79,7 @@ models = [
         'learning_rate': 0.000125,
         'debug': False,
         'debug_print_model': True,
-        'epochs': 100
+        'epochs': 25
     },
     {
         'name': 'openscreen-256-2-6-256-0.000125',
@@ -90,7 +90,7 @@ models = [
         'learning_rate': 0.000125,
         'debug': False,
         'debug_print_model': True,
-        'epochs': 100
+        'epochs': 25
     }
 ]
 
